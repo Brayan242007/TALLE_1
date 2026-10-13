@@ -1774,4 +1774,4 @@ grid.arrange(g1, g2, ncol = 2)
 Haz clic sobre la imagen para visitar nuestro sitio web.
 :::
 
-[![](images/clipboard-3282618220.png)](https://connect.posit.cloud/bra24yan/content/01a1372c-db34-d31f-96da-3e00c0b6e985?utm_source=rsconnect-rstudio)
+[![](images/clipboard-3282618220.png)](https://01a1372c-db34-d31f-96da-3e00c0b6e985.share.connect.posit.cloud/)
